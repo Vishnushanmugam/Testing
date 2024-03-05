@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_in</name>
+   <tag></tag>
+   <elementGuidId>a9f066f5-e25b-43c4-8e93-c80e60800d4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='nav-logo-sprites']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-logo-sprites</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c814a210-28c1-40e1-b181-c5c33c499585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ref=nav_logo</value>
+      <webElementGuid>38ee40a4-3057-4daf-9901-9a2e03a06cf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nav-logo-sprites</value>
+      <webElementGuid>c2a48527-961f-4c65-838d-524520758d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-logo-link nav-progressive-attribute</value>
+      <webElementGuid>672f9593-f7a2-41f2-a396-5c6679e4d2c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Amazon.in</value>
+      <webElementGuid>bc9198b5-b52b-44de-bb55-f8f4693e1232</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      
+      
+      .in
+    </value>
+      <webElementGuid>4a4329c1-8b8e-4e83-acad-f774f5c2da12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-logo-sprites&quot;)</value>
+      <webElementGuid>913450bb-b1ba-48ac-b8e9-a3d117b49a98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='nav-logo-sprites']</value>
+      <webElementGuid>27d8584d-3025-49bf-93a8-56d346ba7deb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-logo']/a</value>
+      <webElementGuid>04651e64-239b-47a2-a9ff-f6d898c346c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to main content'])[1]/following::a[1]</value>
+      <webElementGuid>cf7b51d7-9f14-404d-b8f1-4249f5976207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivering to Coimbatore 641020'])[1]/preceding::a[1]</value>
+      <webElementGuid>184d2208-4b3e-4186-97f2-4bdff18f6367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ref=nav_logo')]</value>
+      <webElementGuid>62f24e27-9724-4f94-9434-103146e358b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a</value>
+      <webElementGuid>bd61b28c-83ec-4f52-a87f-72d231b427aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ref=nav_logo' and @id = 'nav-logo-sprites' and (text() = '
+      
+      
+      .in
+    ' or . = '
+      
+      
+      .in
+    ')]</value>
+      <webElementGuid>e8199459-38a4-4234-ac69-22b02a3ac6d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create a new account anyway</name>
+   <tag></tag>
+   <elementGuidId>a4281087-1aa8-4230-b59c-1898b842caac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='auth-account-conflict-continue-verify-url']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#auth-account-conflict-continue-verify-url</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e79054d1-ccfd-4cad-a63e-ccfa3eac810d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>auth-account-conflict-continue-verify-url</value>
+      <webElementGuid>7fdbb95c-ce64-4747-b31e-d13211db9ada</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-link-normal</value>
+      <webElementGuid>42f248fe-bd08-41dc-8727-52858518187b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.amazon.in/ap/mobileclaimconflict/ref=ap_register_mobile_claim_conflict_warned_popover_continue_verify?openid.pape.max_auth_age=900&amp;openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_ya_signin&amp;prevRID=6T4ZVKS5DBHSBV60B22D&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=inflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;pageId=inflex&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0</value>
+      <webElementGuid>69cd3895-be37-4dd3-9198-5b48c2d87434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+              Create a new account anyway
+            </value>
+      <webElementGuid>070b70e5-2e3e-4efd-b214-5eab42b7e9fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;auth-account-conflict-continue-verify-url&quot;)</value>
+      <webElementGuid>ecf803b0-4f16-443b-9a2d-46ea2eb9137a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='auth-account-conflict-continue-verify-url']</value>
+      <webElementGuid>9528c63f-7f79-41e9-84ee-bbc5f2e8f54d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ap_account_conflict_warning_customer_actions']/a</value>
+      <webElementGuid>bffd886a-254e-4563-b833-d4714c4bacf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create a new account anyway')]</value>
+      <webElementGuid>8719be62-7764-42ab-873b-0c77314bd1bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.amazon.in/ap/mobileclaimconflict/ref=ap_register_mobile_claim_conflict_warned_popover_continue_verify?openid.pape.max_auth_age=900&amp;openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_ya_signin&amp;prevRID=6T4ZVKS5DBHSBV60B22D&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=inflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;pageId=inflex&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0')]</value>
+      <webElementGuid>3ace3e43-538c-4d8f-bf91-f8ae0760d6ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/a</value>
+      <webElementGuid>21154873-ec28-46bd-98ce-ae81def36c8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'auth-account-conflict-continue-verify-url' and @href = 'https://www.amazon.in/ap/mobileclaimconflict/ref=ap_register_mobile_claim_conflict_warned_popover_continue_verify?openid.pape.max_auth_age=900&amp;openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_ya_signin&amp;prevRID=6T4ZVKS5DBHSBV60B22D&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=inflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;pageId=inflex&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0' and (text() = '
+              Create a new account anyway
+            ' or . = '
+              Create a new account anyway
+            ')]</value>
+      <webElementGuid>32f6e72c-48a8-4006-898a-46898cb0e429</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
